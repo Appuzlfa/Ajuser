@@ -4,11 +4,12 @@
   "description": "Ajuser is the Modified Version of WhatsAsena, Made By @aju with Baileys.",
   "main": "./Ajuser/bot.js",
   "scripts": {
+    
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aju001/Ajuser"
+    "url": "git+https://github.com/Appuzlfa/Ajuser"
   },
   "keywords": [
     "whatsapp",
@@ -18,12 +19,12 @@
     "WhatsAsena"
   ],
   "author": "aju",
-  "developer": "@aju001 / @aju001",
+  "developer": "@Appuzlfa / @Appuzlfa",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/aju001/Ajuser/issues"
+    "url": "https://github.com/Appuzlfa/Ajuser/issues"
   },
-  "homepage": "https://github.com/aju001/Ajuser#readme",
+  "homepage": "https://github.com/Appuzlfa/Ajuser#readme",
   "dependencies": {
     "@lh2020/speedtest-net": "^2.1.1",
     "textmaker-thiccy": "1.2.1",
